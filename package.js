@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'excel-export-next': '0.4.1'
+  'excel-export-next': '1.0.3'
 });
 
 Package.onUse(function (api) {
