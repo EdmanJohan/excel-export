@@ -1,5 +1,5 @@
 Excel = {};
-Excel.lib = Npm.require('excel-export');
+Excel.lib = Npm.require('excel-export-next');
 
 Excel.getColumns = function(fields, data) {
   var rows = [];
